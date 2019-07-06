@@ -1,0 +1,5 @@
+name: LagAnnouncer
+version: 1.0.2
+author: Kuinox
+main: com.kuinox.lagannouncer.Main
+api-version: 1.14
